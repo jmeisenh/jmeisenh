@@ -1,4 +1,7 @@
+
+
 [![Header](https://github.com/jmeisenh/jmeisenh/blob/main/hello_world_GH.png "Header")](https://github.com/jmeisenh/jmeisenh/blob/main/hello_world_GH.png)
+ 
 
 
 
@@ -20,12 +23,14 @@
  :orange_book: I’m currently a fellow at the New York City Data Science Academy, taking a Data Science and Machine Learning Bootcamp  
  :microscope: I have degrees in Solid State and Optical Engineering, Applied Mathematics, and Applied Physics  
  ♾️I do Modeling and Simulation for fun. I am currently working on a classical simulation of electrons in closed box.  
-  Here is a short gif of my simulation right now: 5 electrons in random start positions with random intial velocities in a closed box with energy absorbing walls and electro-static repulsion.
+ <p align = "center"> Here is a short gif of my simulation right now: 5 electrons in random start positions with random intial velocities in a closed box with energy absorbing walls and electro-static repulsion. </p>
   
-  ![All_plots](https://user-images.githubusercontent.com/91347857/149628934-23cb91c8-45f6-4c3b-96b2-40ffb518e04d.gif)
+  <p align = "center"><image src="https://user-images.githubusercontent.com/91347857/149628934-23cb91c8-45f6-4c3b-96b2-40ffb518e04d.gif">
+   </p>
 
-
-![regular expressions](https://user-images.githubusercontent.com/91347857/149591978-647996ba-1c7c-431d-a4e8-b1bfebebdd23.PNG)
+<
+<p align="center"> And I'm not afraid of regular expressions  
+   <image src="https://user-images.githubusercontent.com/91347857/149591978-647996ba-1c7c-431d-a4e8-b1bfebebdd23.PNG"></p>
 
 <!--
 **jmeisenh/jmeisenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
