@@ -17,7 +17,7 @@
 <image src="https://user-images.githubusercontent.com/91347857/149627725-ed3c66b6-69c8-488e-bbdf-24836a0737ad.png" height="40src" width ="40src">,
 <image src="https://user-images.githubusercontent.com/91347857/149592174-fc4f694d-c84a-4aa1-84af-3dcb7088e581.png" height="40src" width ="40src">, 
  
-
+<image src = "https://www.codewars.com/users/jmeisenh/badges/small">
 
   # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  :orange_book: I’m currently a fellow at the New York City Data Science Academy, taking a Data Science and Machine Learning Bootcamp  
